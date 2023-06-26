@@ -64,7 +64,7 @@ https://fastapi.tiangolo.com/
 SQLite:
 https://www.sqlite.org/index.html
 
-NHTSA Product Information Catalog Vehicle Listing (vPIC):
+NHTSA Product Information Catalog Vehicle Listing (vPIC) API:
 https://vpic.nhtsa.dot.gov/api/
 
 
