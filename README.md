@@ -33,7 +33,7 @@ The query_helper.py file contains functions with SQL queries that are called on 
 
 ## Required Installations and Libraries
 
-This API relies on the installation of Python, FastAPI and SQLite3. Also used in this API are the packages: pandas, requests, pydantic and typing.
+This API relies on the installation of Python, FastAPI and SQLite3. Also used in this API are the packages: pandas, requests, fastparquet, pydantic and typing.
 
 ## Running the API and Testing the Endpoints
 
