@@ -27,6 +27,10 @@ The dataframes are merged together to evaluate all the data. Using the flags, th
 
 Finally, the /export endpoint extracts all data from the cache (vintable) and saves it as a binary file in parquet format. No user input is required.
 
+### query_helper.py and classes.py
+
+The query_helper.py file contains functions with SQL queries that are called on in the main.py file. The classes.py file contains classes used in main.py.
+
 ## Required Installations and Libraries
 
 This API relies on the installation of Python, FastAPI and SQLite3. Also used in this API are the packages: pandas, requests, pydantic and typing.
