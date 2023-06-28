@@ -1,4 +1,4 @@
-# Koffie-VIN-Challenge
+# VIN-Challenge
 by Elise H. Cuevas
 
 ## Description
