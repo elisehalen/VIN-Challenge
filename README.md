@@ -75,5 +75,3 @@ https://vpic.nhtsa.dot.gov/api/
 ## Contact
 
 Email: elisehalen@outlook.com
-
-LinkedIn: https://www.linkedin.com/in/elise-cuevas/
