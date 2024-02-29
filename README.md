@@ -70,8 +70,3 @@ https://www.sqlite.org/index.html
 
 NHTSA Product Information Catalog Vehicle Listing (vPIC) API:
 https://vpic.nhtsa.dot.gov/api/
-
-
-## Contact
-
-Email: elisehalen@outlook.com
